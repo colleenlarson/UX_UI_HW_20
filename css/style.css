@@ -8,7 +8,7 @@ p {
 
 /* General */
 .customNav {
-  position: fixed;
+  position: sticky;
   width: 100%;
   background: url("../images/transparency.png");
   background-color: transparent !important;
@@ -28,7 +28,7 @@ p {
 }
 /* Navigation links */
 .customNav a {
-  color: white !important;
+  color: black !important;
 }
 .navCTA {
   font-size: 18px;
